@@ -103,10 +103,24 @@ Host Module
 
 # [SAN ZEN]
 
- SAN ZEN is a powerful tool designed to streamline the work of medical representatives (MRs) by enabling them to capture and manage critical field data even without an internet connection. This app is specifically tailored for the pharmaceutical industry, offering a comprehensive solution for efficient sales force automation. MR and manager flows refer to the distinct user experiences within the SAN ZEN app tailored to the specific roles of Medical Representatives (MRs) and their managers.
+ SAN ZEN is a powerful tool designed to streamline the work of medical representatives (MRs) by enabling them to capture and manage critical field data even without an internet connection. This app is specifically tailored for the pharmaceutical industry, offering a comprehensive solution for efficient sales force automation. MR and manager flows refer to the distinct user experiences within the SAN ZEN app tailored to the specific roles of Medical Representatives (MRs) and their managers. This is ongoing work and just a few examples of the things I've had the opportunity to work on.
+ 
+ <p align="center">
+<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/a78d4eb03f3c0a7bed5b16bd101421b2006a5e6c/SAN%20ZEN/Screenshot%202024-07-26%20at%204.43.16%E2%80%AFPM.png", width="200"/>
+<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/a78d4eb03f3c0a7bed5b16bd101421b2006a5e6c/SAN%20ZEN/Screenshot%202024-07-26%20at%204.43.35%E2%80%AFPM.png", width="200"/>
+<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/a78d4eb03f3c0a7bed5b16bd101421b2006a5e6c/SAN%20ZEN/Screenshot%202024-07-26%20at%204.43.54%E2%80%AFPM.png", width="200"/>
+<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/a78d4eb03f3c0a7bed5b16bd101421b2006a5e6c/SAN%20ZEN/Screenshot%202024-07-26%20at%204.44.10%E2%80%AFPM.png", width="200"/>
+<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/a78d4eb03f3c0a7bed5b16bd101421b2006a5e6c/SAN%20ZEN/Screenshot%202024-07-26%20at%204.45.14%E2%80%AFPM.png", width="200"/>
+<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/a78d4eb03f3c0a7bed5b16bd101421b2006a5e6c/SAN%20ZEN/Screenshot%202024-07-26%20at%204.46.23%E2%80%AFPM.png", width="200"/>
+<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/a78d4eb03f3c0a7bed5b16bd101421b2006a5e6c/SAN%20ZEN/Screenshot%202024-07-26%20at%204.46.52%E2%80%AFPM.png", width="200"/>
+<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/a78d4eb03f3c0a7bed5b16bd101421b2006a5e6c/SAN%20ZEN/Screenshot%202024-07-26%20at%204.47.31%E2%80%AFPM.png", width="200"/>
 
-MR Flow
+<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/a78d4eb03f3c0a7bed5b16bd101421b2006a5e6c/SAN%20ZEN/Screenshot%202024-07-26%20at%204.48.13%E2%80%AFPM.png", width="200"/>
+</p>
+
+
 💼 MR Flow: The MR flow encompasses features designed to support the daily activities of a medical representative in the field.
+📊 Built a generic chart layer with SwiftCharts t
 📝 Offline Data Capture: Record customer visits, product details, orders, and samples.
 📞 Call Reporting: Generate detailed reports on customer interactions.
 🛒 Order Management: Process orders and track inventory.
@@ -114,7 +128,6 @@ MR Flow
 📍 Geolocation Tracking: Record visit locations.
 👥 CRM: Manage customer information and interactions.
 
-Manager Flow
 📊 Manager Flow: The manager flow provides tools for overseeing and analyzing the performance of the sales team.
 🚀 Real-time Dashboards: Monitor sales metrics and team performance.
 📈 Sales Analytics: Generate reports on sales trends, product performance, and territory analysis.
@@ -127,39 +140,11 @@ Manager Flow
 - 💻 Swift
 - 📱 UIKit
 - 💾 Core Data
+- 📊 Swift Charts
 - 📍 Google Maps
 - 🔔 Push Notifications
 - 🔄 Concurrency - DispatchQueue, NSOperationQueue
 - ⏰ Background Task Management
 - 🎥 AVFoundation
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/0484e2aaf006d5d40c9d1585a728ab94b1a04e66/popTok/IMG_1692.PNG", width="200"/>
-<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/0484e2aaf006d5d40c9d1585a728ab94b1a04e66/popTok/IMG_1695.PNG", width="200"/>
-<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/0484e2aaf006d5d40c9d1585a728ab94b1a04e66/popTok/IMG_1698.PNG", width="200"/>
-<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/0484e2aaf006d5d40c9d1585a728ab94b1a04e66/popTok/IMG_1703.PNG", width="200"/>
-<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/0484e2aaf006d5d40c9d1585a728ab94b1a04e66/popTok/IMG_1694.PNG", width="200"/>
-<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/8a86b5a7f67f84fc07bc0a903a6edd968263a3c1/cliqBuy/IMG_1707.png", width="200"/>
-<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/0484e2aaf006d5d40c9d1585a728ab94b1a04e66/popTok/IMG_1704.PNG", width="200"/>
-<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/0484e2aaf006d5d40c9d1585a728ab94b1a04e66/popTok/IMG_1706.PNG", width="200"/>
-</p>
 
-
-- 🔐 User Authentication: Developed a secure sign-in and sign-up process with email verification and password recovery.
-- 📦 Product Listings: Created comprehensive product listing pages with detailed descriptions, images, pricing, and availability.
-- 🔍 Advanced Search and Filters: Implemented a robust search function with filters for category, price range, brand, and ratings to help users find products easily.
-- 🛒 Shopping Cart: Designed a shopping cart feature that allows users to add, remove, and modify items before purchase.
-- 💳 Secure Checkout Process: Developed a seamless and secure checkout process, integrating payment gateways for a variety of payment options.
-- ⭐️ Ratings and Reviews: Enabled customers to leave ratings and reviews for products, helping other users make informed purchasing decisions.
-- 🚚 Order Tracking: Created an order tracking system that allows users to track the status and delivery of their purchases.
-- 🎁 Wishlist: Implemented a wishlist feature for users to save items for future purchase.
-- 📱 User Profiles: Allowed users to create and manage their profiles, including order history, saved addresses, and payment methods.
-- 🔔 Notifications: Integrated push notifications to alert users about order updates, special offers, and new arrivals.
-- 📊 Analytics and Reporting: Provided sellers with an analytics dashboard to track sales, customer behavior, and inventory management.
-
-
-**Tech Used**
-- 🦅 Swift
-- 📲 UIkit
-- 💿 Core Data
-- 🎁 Restful API
