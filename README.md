@@ -4,6 +4,88 @@
  
 ### 👋 Hi! I'm a self-taught iOS Engineer. Here's a bit of what I've been working on.
 
+
+# [SAN ZEN]
+
+ SAN ZEN is a powerful tool designed to streamline the work of medical representatives (MRs) by enabling them to capture and manage critical field data even without an internet connection. This app is specifically tailored for the pharmaceutical industry, offering a comprehensive solution for efficient sales force automation. MR and manager flows refer to the distinct user experiences within the SAN ZEN app tailored to the specific roles of Medical Representatives (MRs) and their managers. This is ongoing work and just a few examples of the things I've had the opportunity to work on.
+ 
+ <p align="center">
+<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/a78d4eb03f3c0a7bed5b16bd101421b2006a5e6c/SAN%20ZEN/Screenshot%202024-07-26%20at%204.43.16%E2%80%AFPM.png", width="200"/>
+<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/a78d4eb03f3c0a7bed5b16bd101421b2006a5e6c/SAN%20ZEN/Screenshot%202024-07-26%20at%204.43.35%E2%80%AFPM.png", width="200"/>
+<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/a78d4eb03f3c0a7bed5b16bd101421b2006a5e6c/SAN%20ZEN/Screenshot%202024-07-26%20at%204.43.54%E2%80%AFPM.png", width="200"/>
+<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/a78d4eb03f3c0a7bed5b16bd101421b2006a5e6c/SAN%20ZEN/Screenshot%202024-07-26%20at%204.44.10%E2%80%AFPM.png", width="200"/>
+<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/a78d4eb03f3c0a7bed5b16bd101421b2006a5e6c/SAN%20ZEN/Screenshot%202024-07-26%20at%204.45.14%E2%80%AFPM.png", width="200"/>
+<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/a78d4eb03f3c0a7bed5b16bd101421b2006a5e6c/SAN%20ZEN/Screenshot%202024-07-26%20at%204.46.23%E2%80%AFPM.png", width="200"/>
+<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/a78d4eb03f3c0a7bed5b16bd101421b2006a5e6c/SAN%20ZEN/Screenshot%202024-07-26%20at%204.46.52%E2%80%AFPM.png", width="200"/>
+<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/a78d4eb03f3c0a7bed5b16bd101421b2006a5e6c/SAN%20ZEN/Screenshot%202024-07-26%20at%204.47.31%E2%80%AFPM.png", width="200"/>
+</p>
+
+
+💼 MR Flow: The MR flow encompasses features designed to support the daily activities of a medical representative in the field.
+📊 Built a generic chart layer with SwiftCharts.
+📝 Offline Data Capture: Record customer visits, product details, orders, and samples.
+📞 Call Reporting: Generate detailed reports on customer interactions.
+🛒 Order Management: Process orders and track inventory.
+💵 Expense Management: Submit and track expense claims.
+📍 Geolocation Tracking: Record visit locations.
+👥 CRM: Manage customer information and interactions.
+
+📊 Manager Flow: The manager flow provides tools for overseeing and analyzing the performance of the sales team.
+🚀 Real-time Dashboards: Monitor sales metrics and team performance.
+📈 Sales Analytics: Generate reports on sales trends, product performance, and territory analysis.
+👨‍💼 Team Management: Assign territories, set targets, and track performance.
+✅ Expense Approval: Review and approve expense claims.
+📦 Order Management: Oversee order processing and inventory levels.
+
+
+**Tech Used**
+- 💻 Swift
+- 📱 UIKit
+- 💾 Core Data
+- 📊 Swift Charts
+- 📍 Google Maps
+- 🔔 Push Notifications
+- 🔄 Concurrency - DispatchQueue, NSOperationQueue
+- ⏰ Background Task Management
+- 🎥 AVFoundation
+
+# [Makent Tenant](https://apps.apple.com/in/app/makent-tenant/id6468250764)
+I contributed to the development and release of this Airbnb clone app for Trioangle Technologies. This app emulates the core features of Airbnb, allowing users to discover, book, and manage vacation rentals, while also providing a platform for hosts to list and manage their properties. Working closely with a talented team of developers, I contributed to delivering a robust Airbnb clone app that provides users with a comprehensive and engaging experience. This project involved numerous design and development challenges, which were met with creative solutions and technical expertise. Here’s a breakdown of the key features and functionalities for both modules:
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/eb89604b2844cee9588bf5b970a05ddfdf15e6cc/Makent/IMG_1723.PNG", width="200"/>
+<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/eb89604b2844cee9588bf5b970a05ddfdf15e6cc/Makent/IMG_1719.PNG", width="200"/>
+<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/eb89604b2844cee9588bf5b970a05ddfdf15e6cc/Makent/IMG_1721.PNG", width="200"/>
+<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/eb89604b2844cee9588bf5b970a05ddfdf15e6cc/Makent/IMG_1722.PNG", width="200"/>
+<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/eb89604b2844cee9588bf5b970a05ddfdf15e6cc/Makent/IMG_1727.PNG", width="200"/>
+<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/eb89604b2844cee9588bf5b970a05ddfdf15e6cc/Makent/IMG_1729.PNG", width="200"/>
+<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/eb89604b2844cee9588bf5b970a05ddfdf15e6cc/Makent/IMG_1726.PNG", width="200"/>
+<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/eb89604b2844cee9588bf5b970a05ddfdf15e6cc/Makent/IMG_1720.PNG", width="200"/>
+</p>
+
+User Module
+- 🏠 Home Page: Designed an inviting home page that showcases featured properties, popular destinations, and a search bar for users to quickly find accommodations.
+- 🔍 Advanced Search and Filters: Implemented a comprehensive search function with filters for location, price range, property type, amenities, and more, allowing users to find their ideal rental easily.
+- 🛏️ Property Listings: Developed detailed property listing pages with high-quality images, descriptions, pricing, availability, and user reviews to provide a complete view of each rental.
+- 📅 Booking System: Created a seamless booking system that enables users to select dates, view availability, and make reservations. Integrated calendar functionality to manage booking schedules.
+- 💳 Secure Payments: Integrated a stripe payment gateway for processing transactions, supporting various payment methods and ensuring user data protection.
+- 🗺️ Map Integration: Used interactive maps to display property locations and nearby attractions, assisting users in making informed travel decisions.
+- 💬 In-App Messaging: Developed a messaging system for users to communicate with hosts, facilitating inquiries and coordination.
+- 🔔 Push Notifications: Enabled push notifications to keep users informed about booking confirmations, messages, and special offers.
+
+Host Module
+🏡 Host Dashboard: Created a comprehensive dashboard for hosts to list and manage their properties, including features for updating availability, setting pricing, and adding property details.
+📅 Booking Management: Developed tools for hosts to manage bookings, view reservation details, and handle cancellations or modifications.
+🛠️ Property Management: Enabled hosts to update property information, including descriptions, images, and amenities, to attract potential guests.
+💬 In-App Messaging: Implemented a messaging system for hosts to communicate with guests, respond to inquiries, and provide support.
+
+**Tech Used**
+- 🦅 Swift
+- 📲 UIkit
+- 💿 Core Data
+- 🚘 Google Maps
+- 🔔 Push Notifications
+
 # [CliqBuy](https://apps.apple.com/in/app/cliqbuy/id1601610493)
 
 I've have the opportunity to contribute to this incredible iOS App. Using Swift, Improved the app's visual appeal by refreshing several key screens with modern design principles, ensuring a consistent and engaging user experience., and help with various bug fixes and design updates. just a few examples of the things I've had the opportunity to work on.
@@ -64,87 +146,8 @@ I built and released this app on the App Store for Trioangle Technologies, worki
 - 💿 Core Data
 - 🎁 Restful API
 
-# [Makent Tenant](https://apps.apple.com/in/app/makent-tenant/id6468250764)
-I contributed to the development and release of this Airbnb clone app for Trioangle Technologies. This app emulates the core features of Airbnb, allowing users to discover, book, and manage vacation rentals, while also providing a platform for hosts to list and manage their properties. Working closely with a talented team of developers, I contributed to delivering a robust Airbnb clone app that provides users with a comprehensive and engaging experience. This project involved numerous design and development challenges, which were met with creative solutions and technical expertise. Here’s a breakdown of the key features and functionalities for both modules:
-
-<p align="center">
- <img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/eb89604b2844cee9588bf5b970a05ddfdf15e6cc/Makent/IMG_1723.PNG", width="200"/>
-<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/eb89604b2844cee9588bf5b970a05ddfdf15e6cc/Makent/IMG_1719.PNG", width="200"/>
-<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/eb89604b2844cee9588bf5b970a05ddfdf15e6cc/Makent/IMG_1721.PNG", width="200"/>
-<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/eb89604b2844cee9588bf5b970a05ddfdf15e6cc/Makent/IMG_1722.PNG", width="200"/>
-<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/eb89604b2844cee9588bf5b970a05ddfdf15e6cc/Makent/IMG_1727.PNG", width="200"/>
-<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/eb89604b2844cee9588bf5b970a05ddfdf15e6cc/Makent/IMG_1729.PNG", width="200"/>
-</p>
-
-User Module
-- 🏠 Home Page: Designed an inviting home page that showcases featured properties, popular destinations, and a search bar for users to quickly find accommodations.
-- 🔍 Advanced Search and Filters: Implemented a comprehensive search function with filters for location, price range, property type, amenities, and more, allowing users to find their ideal rental easily.
-- 🛏️ Property Listings: Developed detailed property listing pages with high-quality images, descriptions, pricing, availability, and user reviews to provide a complete view of each rental.
-- 📅 Booking System: Created a seamless booking system that enables users to select dates, view availability, and make reservations. Integrated calendar functionality to manage booking schedules.
-- 💳 Secure Payments: Integrated a stripe payment gateway for processing transactions, supporting various payment methods and ensuring user data protection.
-- 🗺️ Map Integration: Used interactive maps to display property locations and nearby attractions, assisting users in making informed travel decisions.
-- 💬 In-App Messaging: Developed a messaging system for users to communicate with hosts, facilitating inquiries and coordination.
-- 🔔 Push Notifications: Enabled push notifications to keep users informed about booking confirmations, messages, and special offers.
-
-Host Module
-🏡 Host Dashboard: Created a comprehensive dashboard for hosts to list and manage their properties, including features for updating availability, setting pricing, and adding property details.
-📅 Booking Management: Developed tools for hosts to manage bookings, view reservation details, and handle cancellations or modifications.
-🛠️ Property Management: Enabled hosts to update property information, including descriptions, images, and amenities, to attract potential guests.
-💬 In-App Messaging: Implemented a messaging system for hosts to communicate with guests, respond to inquiries, and provide support.
-
-**Tech Used**
-- 🦅 Swift
-- 📲 UIkit
-- 💿 Core Data
-- 🚘 Google Maps
-- 🔔 Push Notifications
 
 
 
-# [SAN ZEN]
-
- SAN ZEN is a powerful tool designed to streamline the work of medical representatives (MRs) by enabling them to capture and manage critical field data even without an internet connection. This app is specifically tailored for the pharmaceutical industry, offering a comprehensive solution for efficient sales force automation. MR and manager flows refer to the distinct user experiences within the SAN ZEN app tailored to the specific roles of Medical Representatives (MRs) and their managers. This is ongoing work and just a few examples of the things I've had the opportunity to work on.
- 
- <p align="center">
-<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/a78d4eb03f3c0a7bed5b16bd101421b2006a5e6c/SAN%20ZEN/Screenshot%202024-07-26%20at%204.43.16%E2%80%AFPM.png", width="200"/>
-<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/a78d4eb03f3c0a7bed5b16bd101421b2006a5e6c/SAN%20ZEN/Screenshot%202024-07-26%20at%204.43.35%E2%80%AFPM.png", width="200"/>
-<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/a78d4eb03f3c0a7bed5b16bd101421b2006a5e6c/SAN%20ZEN/Screenshot%202024-07-26%20at%204.43.54%E2%80%AFPM.png", width="200"/>
-<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/a78d4eb03f3c0a7bed5b16bd101421b2006a5e6c/SAN%20ZEN/Screenshot%202024-07-26%20at%204.44.10%E2%80%AFPM.png", width="200"/>
-<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/a78d4eb03f3c0a7bed5b16bd101421b2006a5e6c/SAN%20ZEN/Screenshot%202024-07-26%20at%204.45.14%E2%80%AFPM.png", width="200"/>
-<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/a78d4eb03f3c0a7bed5b16bd101421b2006a5e6c/SAN%20ZEN/Screenshot%202024-07-26%20at%204.46.23%E2%80%AFPM.png", width="200"/>
-<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/a78d4eb03f3c0a7bed5b16bd101421b2006a5e6c/SAN%20ZEN/Screenshot%202024-07-26%20at%204.46.52%E2%80%AFPM.png", width="200"/>
-<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/a78d4eb03f3c0a7bed5b16bd101421b2006a5e6c/SAN%20ZEN/Screenshot%202024-07-26%20at%204.47.31%E2%80%AFPM.png", width="200"/>
-
-<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/a78d4eb03f3c0a7bed5b16bd101421b2006a5e6c/SAN%20ZEN/Screenshot%202024-07-26%20at%204.48.13%E2%80%AFPM.png", width="200"/>
-</p>
-
-
-💼 MR Flow: The MR flow encompasses features designed to support the daily activities of a medical representative in the field.
-📊 Built a generic chart layer with SwiftCharts t
-📝 Offline Data Capture: Record customer visits, product details, orders, and samples.
-📞 Call Reporting: Generate detailed reports on customer interactions.
-🛒 Order Management: Process orders and track inventory.
-💵 Expense Management: Submit and track expense claims.
-📍 Geolocation Tracking: Record visit locations.
-👥 CRM: Manage customer information and interactions.
-
-📊 Manager Flow: The manager flow provides tools for overseeing and analyzing the performance of the sales team.
-🚀 Real-time Dashboards: Monitor sales metrics and team performance.
-📈 Sales Analytics: Generate reports on sales trends, product performance, and territory analysis.
-👨‍💼 Team Management: Assign territories, set targets, and track performance.
-✅ Expense Approval: Review and approve expense claims.
-📦 Order Management: Oversee order processing and inventory levels.
-
-
-**Tech Used**
-- 💻 Swift
-- 📱 UIKit
-- 💾 Core Data
-- 📊 Swift Charts
-- 📍 Google Maps
-- 🔔 Push Notifications
-- 🔄 Concurrency - DispatchQueue, NSOperationQueue
-- ⏰ Background Task Management
-- 🎥 AVFoundation
 
 
