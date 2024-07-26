@@ -1,2 +1,2 @@
-# bhassan-iOS-Developer-Portfolio
+# hassan-iOS-Developer-Portfolio
 My personal Portfolio
