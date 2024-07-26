@@ -5,7 +5,7 @@
 ### 👋 Hi! I'm a self-taught iOS Engineer. Here's a bit of what I've been working on.
 
 # [CliqBuy](https://apps.apple.com/in/app/cliqbuy/id1601610493)
-(Contract Work)
+
 I've have the opportunity to contribute to this incredible iOS App. Using Swift, Improved the app's visual appeal by refreshing several key screens with modern design principles, ensuring a consistent and engaging user experience., and help with various bug fixes and design updates. just a few examples of the things I've had the opportunity to work on.
 
 
@@ -15,7 +15,7 @@ I've have the opportunity to contribute to this incredible iOS App. Using Swift,
 <img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/0484e2aaf006d5d40c9d1585a728ab94b1a04e66/popTok/IMG_1698.PNG", width="200"/>
 <img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/0484e2aaf006d5d40c9d1585a728ab94b1a04e66/popTok/IMG_1703.PNG", width="200"/>
 <img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/0484e2aaf006d5d40c9d1585a728ab94b1a04e66/popTok/IMG_1694.PNG", width="200"/>
-<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/0484e2aaf006d5d40c9d1585a728ab94b1a04e66/popTok/IMG_1696.PNG", width="200"/>
+<img src="", width="200"/>
 <img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/0484e2aaf006d5d40c9d1585a728ab94b1a04e66/popTok/IMG_1704.PNG", width="200"/>
 <img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/0484e2aaf006d5d40c9d1585a728ab94b1a04e66/popTok/IMG_1706.PNG", width="200"/>
 </p>
@@ -41,7 +41,7 @@ I've have the opportunity to contribute to this incredible iOS App. Using Swift,
 - 🎁 Restful API
 
 # [Pop Tok](https://apps.apple.com/in/app/pop-tok/id6468070798)
-My most recent app I built and released on the App Store. I created this app out of personal need. I have SO MANY random app ideas and wanted a place I could easily keep track of them. AppIdeasApp lets you create app ideas, brainstorm everything from name ideas, feature ideas, color schemes, and more. Less forgetting. More building. More shipping. I wanted to challenge my design skills on this project and had fun adding some animations (all with SwiftUI of course!)
+I built and released this app on the App Store for Trioangle Technologies, working as part of a dedicated team of 3 developers. With a passion for short-form video content, we aimed to create a platform where users could effortlessly create, share, and engage with videos. The TikTok Clone App allows users to explore a vibrant community of content creators, discover trends, and express themselves through video. Here’s what we worked on:
 
 
 <p align="center">
@@ -58,16 +58,15 @@ My most recent app I built and released on the App Store. I created this app out
 - Other UI and bug fixes
 
 **Tech Used**
+- 🦅 Swift
+- 📲 UIkit
 - 💿 Core Data
-- 🎨 SwiftUI
-- 🏦 App Storage
-- 🎁 WishKit API
-- 💰 IAP
-- 📲 WidgetKit
+- 🎁 Restful API
 
-
-# [Magic Budget](https://apps.apple.com/us/app/magic-budget/id6447111418)
-This app has been a passion project of mine over the past couple years. Magic Budget is a Disney Parks budget planning app. Me and my husband absolutely love going to the parks but we always find ourselves coming over budget (too many churros). I built this app to help solve this problem! I found the estimated price for many of the popular items in the parks so users can quickly budget for what they might buy on their trip. 
+# [Makent Tenant](https://apps.apple.com/in/app/makent-tenant/id6468250764)
+I contributed to the development and release of this Airbnb clone app for Trioangle Technologies. This app emulates the core features of Airbnb, allowing users to discover, book, and manage vacation rentals, while also providing a platform for hosts to list and manage their properties.
+Working closely with a talented team of developers, I contributed to delivering a robust Airbnb clone app that provides users with a comprehensive and engaging experience. This project involved numerous design and development challenges, which were met with creative solutions and technical expertise.
+ Here’s a breakdown of the key features and functionalities for both modules:
 
 <p align="center">
  <img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/d26e2525-5b46-4814-ad01-b2141f3a4fcf", width="200"/>
@@ -77,12 +76,14 @@ This app has been a passion project of mine over the past couple years. Magic Bu
 
 
 **Tech Used**
+
+- 🦅 Swift
+- 📲 UIkit
 - 💿 Core Data
-- 🎨 SwiftUI
-- 🏦 App Storage
-- 🚘 Roadmap
-- 💰 IAP
-- ⏱️ Queue Times API
+- 🚘 Google Maps
+- 🔔 Push Notifications
+
+
 
 ## Creator View
 Creator View is an app developed by Sean Allen that helps YouTubers get a bigger picture of their business. 
