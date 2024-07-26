@@ -1,5 +1,5 @@
 
-![Neutral Creative Professional LinkedIn Article Cover Image-2](https://github.com/user-attachments/assets/2b010709-37b9-4ac8-aefc-52498ead4b6f)
+![Neutral Creative Professional LinkedIn Article Cover Image-2](https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/d8f4c187e3e52be2b1bd9e859cf67249ee93e898/general/hassanCover.jpeg)
        
  
 ### 👋 Hi! I'm a self-taught iOS Engineer. Here's a bit of what I've been working on.
