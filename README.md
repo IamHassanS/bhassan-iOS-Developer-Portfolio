@@ -15,7 +15,7 @@ I've have the opportunity to contribute to this incredible iOS App. Using Swift,
 <img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/0484e2aaf006d5d40c9d1585a728ab94b1a04e66/popTok/IMG_1698.PNG", width="200"/>
 <img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/0484e2aaf006d5d40c9d1585a728ab94b1a04e66/popTok/IMG_1703.PNG", width="200"/>
 <img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/0484e2aaf006d5d40c9d1585a728ab94b1a04e66/popTok/IMG_1694.PNG", width="200"/>
-<img src="", width="200"/>
+<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/8a86b5a7f67f84fc07bc0a903a6edd968263a3c1/cliqBuy/IMG_1707.png", width="200"/>
 <img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/0484e2aaf006d5d40c9d1585a728ab94b1a04e66/popTok/IMG_1704.PNG", width="200"/>
 <img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/0484e2aaf006d5d40c9d1585a728ab94b1a04e66/popTok/IMG_1706.PNG", width="200"/>
 </p>
@@ -45,9 +45,12 @@ I built and released this app on the App Store for Trioangle Technologies, worki
 
 
 <p align="center">
-<img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/e619a6ce-7e2b-4c45-b84f-d6f4f64eb243, width="200", height="355"/>
-<img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/fd6932ea-17c7-46aa-8ac4-49b07d058bec", width="200",height="300" />
-<img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/9153668b-4641-4e87-80d1-8828ec8d135c", width="200", height="300"/>
+<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/8a86b5a7f67f84fc07bc0a903a6edd968263a3c1/PopTok/IMG_1711.PNG", width="200"/>
+<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/0484e2aaf006d5d40c9d1585a728ab94b1a04e66/popTok/IMG_1703.PNG", width="200"/>
+<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/0484e2aaf006d5d40c9d1585a728ab94b1a04e66/popTok/IMG_1703.PNG", width="200"/>
+<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/0484e2aaf006d5d40c9d1585a728ab94b1a04e66/popTok/IMG_1703.PNG", width="200"/>
+<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/0484e2aaf006d5d40c9d1585a728ab94b1a04e66/popTok/IMG_1703.PNG", width="200"/>
+<img src="https://raw.githubusercontent.com/IamHassanS/hassan-iOS-Developer-Portfolio/0484e2aaf006d5d40c9d1585a728ab94b1a04e66/popTok/IMG_1703.PNG", width="200"/>
 </p>
 
 
