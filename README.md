@@ -48,6 +48,7 @@
 - 🔄 Concurrency - DispatchQueue, NSOperationQueue
 - ⏰ Background Task Management
 - 🎥 AVFoundation
+- 🚀iPad Platform
 
 # [Makent Tenant](https://apps.apple.com/in/app/makent-tenant/id6468250764)
 I contributed to the development and release of this Airbnb clone app for Trioangle Technologies. This app emulates the core features of Airbnb, allowing users to discover, book, and manage vacation rentals, while also providing a platform for hosts to list and manage their properties. Working closely with a talented team of developers, I contributed to delivering a robust Airbnb clone app that provides users with a comprehensive and engaging experience. This project involved numerous design and development challenges, which were met with creative solutions and technical expertise. Here’s a breakdown of the key features and functionalities for both modules:
@@ -74,10 +75,10 @@ User Module
 - 🔔 Push Notifications: Enabled push notifications to keep users informed about booking confirmations, messages, and special offers.
 
 Host Module
-🏡 Host Dashboard: Created a comprehensive dashboard for hosts to list and manage their properties, including features for updating availability, setting pricing, and adding property details.
-📅 Booking Management: Developed tools for hosts to manage bookings, view reservation details, and handle cancellations or modifications.
-🛠️ Property Management: Enabled hosts to update property information, including descriptions, images, and amenities, to attract potential guests.
-💬 In-App Messaging: Implemented a messaging system for hosts to communicate with guests, respond to inquiries, and provide support.
+- 🏡 Host Dashboard: Created a comprehensive dashboard for hosts to list and manage their properties, including features for updating availability, setting pricing, and adding property details.
+- 📅 Booking Management: Developed tools for hosts to manage bookings, view reservation details, and handle cancellations or modifications.
+- 🛠️ Property Management: Enabled hosts to update property information, including descriptions, images, and amenities, to attract potential guests.
+- 💬 In-App Messaging: Implemented a messaging system for hosts to communicate with guests, respond to inquiries, and provide support.
 
 **Tech Used**
 - 🦅 Swift
