@@ -5,7 +5,7 @@
 ### 👋 Hi! I'm a self-taught iOS Engineer. Here's a bit of what I've been working on.
 
 
-# [SAN ZEN]
+# SAN ZEN
 
  SAN ZEN is a powerful tool designed to streamline the work of medical representatives (MRs) by enabling them to capture and manage critical field data even without an internet connection. This app is specifically tailored for the pharmaceutical industry, offering a comprehensive solution for efficient sales force automation. MR and manager flows refer to the distinct user experiences within the SAN ZEN app tailored to the specific roles of Medical Representatives (MRs) and their managers. This is ongoing work and just a few examples of the things I've had the opportunity to work on.
  
@@ -22,20 +22,20 @@
 
 
 💼 MR Flow: The MR flow encompasses features designed to support the daily activities of a medical representative in the field.
-📊 Built a generic chart layer with SwiftCharts.
-📝 Offline Data Capture: Record customer visits, product details, orders, and samples.
-📞 Call Reporting: Generate detailed reports on customer interactions.
-🛒 Order Management: Process orders and track inventory.
-💵 Expense Management: Submit and track expense claims.
-📍 Geolocation Tracking: Record visit locations.
-👥 CRM: Manage customer information and interactions.
+- 📊 Built a generic chart layer with SwiftCharts.
+- 📝 Offline Data Capture: Record customer visits, product details, orders, and samples.
+- 📞 Call Reporting: Generate detailed reports on customer interactions.
+- 🛒 Order Management: Process orders and track inventory.
+- 💵 Expense Management: Submit and track expense claims.
+- 📍 Geolocation Tracking: Record visit locations.
+- 👥 CRM: Manage customer information and interactions.
 
 📊 Manager Flow: The manager flow provides tools for overseeing and analyzing the performance of the sales team.
-🚀 Real-time Dashboards: Monitor sales metrics and team performance.
-📈 Sales Analytics: Generate reports on sales trends, product performance, and territory analysis.
-👨‍💼 Team Management: Assign territories, set targets, and track performance.
-✅ Expense Approval: Review and approve expense claims.
-📦 Order Management: Oversee order processing and inventory levels.
+- 🚀 Real-time Dashboards: Monitor sales metrics and team performance.
+- 📈 Sales Analytics: Generate reports on sales trends, product performance, and territory analysis.
+- 👨‍💼 Team Management: Assign territories, set targets, and track performance.
+- ✅ Expense Approval: Review and approve expense claims.
+- 📦 Order Management: Oversee order processing and inventory levels.
 
 
 **Tech Used**
